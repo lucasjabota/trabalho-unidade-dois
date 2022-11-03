@@ -45,7 +45,7 @@
                 </tr>
                 <tr>
                     <td>14cm</td>
-                    <td>R$ 400,00</td>
+                    <td>R$ 500,00</td>
                 </tr>
                 <tr>
                     <td>16cm</td>
