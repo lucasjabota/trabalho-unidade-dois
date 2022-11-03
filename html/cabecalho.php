@@ -12,7 +12,7 @@
 <body>
     <div class="cabecalho">
         <div>
-            <p>Studio de Criação Visual</p>
+            <p>jabota o fumante</p>
         </div>
         <ul>
             <li><a href="formulario_projeto_unidade_2.php">Cadastro</a></li>
